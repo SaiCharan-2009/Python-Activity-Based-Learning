@@ -1,9 +1,9 @@
 # Python Activity Based Learning (ABL) - Consolidated Report
 
-**Student Name:** J.Sai Charan
-**Roll Number:** 26000026
-**Section:** CSE1
-**Branch:** CSE 
+**Student Name:** J.Sai Charan  
+**Roll Number:** 26000026   
+**Section:** CSE1  
+**Branch:** CSE   
 **Institution:** Dr. RVR NRI Institute of Technology  
 
 ---
